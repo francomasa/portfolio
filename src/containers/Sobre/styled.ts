@@ -6,6 +6,11 @@ export const GighubSessao = styled.div`
 
   img {
     height: 157px;
-    border: none;
+
+
+    @media (max-width: 768px) {
+      width: 95%;
+    }
+
   }
 `

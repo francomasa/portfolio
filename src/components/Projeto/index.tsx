@@ -1,7 +1,7 @@
 import Titulo from "../Titulo"
 import P from "../Paragrafo"
 
-import { Card, LinkBatao } from "./styled"
+import { Card, LinkBatao } from "./styles"
 
 
 const Projeto = () => (
