@@ -1,6 +1,5 @@
-import { DefaultTheme } from 'styled-components'
 
-const temaLight: DefaultTheme = {
+const temaLight = {
   corPrincipal: '#282A35',
   corSecundaria: '#949494',
   corDeFundo: '#fff',
